@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FabMedapps",
+      "FarFileCode",
+      "FabDochub",
+      "FarImage",
+      "FasGear"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,11 +20,17 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "DATA": "FasWineGlassEmpty",
+  "Articles": "FabReadme",
+  "Configuration d'Obsidian": "FasGear",
+  "DATA/images": "FarImage",
+  "DATA/Templates": "FarFileCode",
+  "Projet_1": "FabMedapps"
 }

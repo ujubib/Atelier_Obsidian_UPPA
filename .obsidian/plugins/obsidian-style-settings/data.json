@@ -1,0 +1,14 @@
+{
+  "minimal-style@@ax1@@light": "#FF5C00",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-flamingo",
+  "anuppuccin-theme-settings@@anp-file-icons": false,
+  "anuppuccin-theme-settings@@anp-floating-header": false,
+  "anuppuccin-theme-settings@@anp-colorful-frame": false,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-table-toggle": false,
+  "anuppuccin-theme-settings@@anp-table-align-td": "center",
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true
+}

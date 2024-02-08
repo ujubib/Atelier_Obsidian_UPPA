@@ -1,4 +1,7 @@
 {
-  "showLineNumber": false,
-  "attachmentFolderPath": "DATA"
+  "showLineNumber": true,
+  "attachmentFolderPath": "DATA",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "readableLineLength": true
 }

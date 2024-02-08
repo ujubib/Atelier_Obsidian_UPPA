@@ -8,6 +8,8 @@ lang: fr
 published: true
 tags:
   - Formats/Markdown
+  - Logiciels/Obsidian
+  - FdU
 abstract: |
   Logiciel de prise de notes au format *markdown*, Obsidian permet de créer des liens entre ses notes et de les visualiser sous forme graphique. De nombreux plugins permettent de l'adapter à son flux de travail (gestion de tâches, de projets, récupération d'informations...).
 publication: oui

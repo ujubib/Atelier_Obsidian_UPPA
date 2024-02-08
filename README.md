@@ -44,7 +44,6 @@ Dossier à télécharger, décompresser et ouvrir comme un coffre (*vault*) dans
 - Importer
 - Link Embed
 - Mindmap Nextgen
-- Pandoc Reference List
 - Paste image rename
 - Paste URL into selection
 - Projects

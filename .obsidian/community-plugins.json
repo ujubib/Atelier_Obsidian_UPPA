@@ -1,5 +1,4 @@
 [
-  "collapse-node",
   "obsidian-link-embed",
   "dataview",
   "obsidian-link-opener",
@@ -10,7 +9,6 @@
   "obsidian-image-toolkit",
   "obsidian-importer",
   "obsidian-mindmap-nextgen",
-  "obsidian-pandoc-reference-list",
   "obsidian-paste-image-rename",
   "url-into-selection",
   "obsidian-projects",
@@ -19,5 +17,6 @@
   "obsidian-tasks-plugin",
   "tag-wrangler",
   "textanalysis",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "convert-url-to-iframe"
 ]

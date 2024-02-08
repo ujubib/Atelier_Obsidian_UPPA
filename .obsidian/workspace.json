@@ -4,25 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "c520f0c59a7cb9a0",
+        "id": "16d3e97061dd9cf3",
         "type": "tabs",
         "children": [
           {
-            "id": "bf5c03a1b12a18f4",
+            "id": "0b8ca911fbdd6b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown/Basic formatting syntax.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9b3c3b5faa7e067e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown/Advanced formatting syntax.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "73f6723c3fb9404f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Toile d'accueil.canvas",
                 "viewState": {
-                  "x": 58,
-                  "y": -110,
-                  "zoom": -1.011837564184503
+                  "x": 422.69805742582946,
+                  "y": -1122.3945478070914,
+                  "zoom": -1.4343407891148687
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "8f991b6f37c522cf",
@@ -152,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 335.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,25 +193,49 @@
       "textanalysis:Text Analysis": false
     }
   },
-  "active": "bf5c03a1b12a18f4",
+  "active": "73f6723c3fb9404f",
   "lastOpenFiles": [
-    "README.md",
-    "Configuration d'Obsidian/Thèmes.md",
-    "Configuration d'Obsidian/Paramètres des modules principaux.md",
-    "Configuration d'Obsidian/Modules complémentaires.md",
+    "Markdown/Obsidian Flavored Markdown.md",
+    "Markdown/Advanced formatting syntax.md",
+    "Markdown/Basic formatting syntax.md",
     "Toile d'accueil.canvas",
+    "basic",
+    "Markdown",
+    "Articles/Note Taking System For Success in Academia.md",
+    "Configuration d'Obsidian/02-Thèmes.md",
+    "Configuration d'Obsidian/03-Modules complémentaires.md",
+    "Configuration d'Obsidian/02-Paramètres des modules principaux.md",
+    "DATA/Templates/RéunionSCD.md",
+    "Projet_1/Imaginer.md",
+    "Configuration d'Obsidian/01-Paramètres.md",
+    "Configuration d'Obsidian/LiensObsidian.md",
+    "README.md",
     "FicheObsidian.md",
-    "Configuration d'Obsidian/Paramètres.md",
-    "DATA/Pasted image 20240207103602.png",
-    "DATA/Pasted image 20240207103507.png",
-    "DATA/Pasted image 20240207103339.png",
-    "DATA/Pasted image 20240207103304.png",
-    "DATA/Pasted image 20240207102925.png",
-    "DATA/screenshot.gif",
-    "DATA/Pasted image 20240207102752.png",
-    "DATA/Pasted image 20240207102729.png",
-    "DATA/Pasted image 20240207102716.png",
-    "DATA/Pasted image 20240207102436.png",
+    "Déroulé.md",
+    "Projet_1/Sans titre.md",
+    "Articles/Dataview-beginners.md",
+    "Articles/Downloadable Public Vaults For Obsidian.md",
+    "Articles/Arthur Perret - Analyser Synthétiser Visualiser.md",
+    "Articles/ArthurPerret_EcritureAcademiqueAuFormatTexte_URFIST_bdx.md",
+    "Articles/RédactionGit.md",
+    "Projet_1/Transformer.md",
+    "Projet_1/Inventer.md",
+    "Projet_1/Documenter.md",
+    "DATA/images/gh-checkbox-preview.webp",
+    "DATA/images",
+    "Articles",
+    "DATA/Templates/Propriétés.md",
+    "DATA/Templates",
+    "Projet_1",
+    "DATA/images/Pasted image 20240207103602.png",
+    "DATA/images/Pasted image 20240207103507.png",
+    "DATA/images/Pasted image 20240207103339.png",
+    "DATA/images/Pasted image 20240207103304.png",
+    "DATA/images/Pasted image 20240207102925.png",
+    "DATA/images/screenshot.gif",
+    "DATA/images/Pasted image 20240207102752.png",
+    "DATA/images/Pasted image 20240207102729.png",
+    "DATA/images/Pasted image 20240207102716.png",
     "Configuration d'Obsidian",
     "DATA"
   ]
