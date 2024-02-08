@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "446739c7ab996866",
+    "type": "split",
+    "children": [
+      {
+        "id": "c520f0c59a7cb9a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf5c03a1b12a18f4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Toile d'accueil.canvas",
+                "viewState": {
+                  "x": 58,
+                  "y": -110,
+                  "zoom": -1.011837564184503
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ce53627bed99dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de5908d13d0514d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e1a85020d66a96f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab4360bc750b6631",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8b0bd7a99271883",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5e4573820d34b81e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2979dba793fdeba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab799947acc3f23a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Toile d'accueil.canvas",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c45698f06c516689",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Toile d'accueil.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41649d33ac472f63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96fa3f3f16745feb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Toile d'accueil.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "8f991b6f37c522cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae9cb705d2b3086c",
+            "type": "leaf",
+            "state": {
+              "type": "textAnalysis-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-projects:Open projects": false,
+      "textanalysis:Text Analysis": false
+    }
+  },
+  "active": "bf5c03a1b12a18f4",
+  "lastOpenFiles": [
+    "README.md",
+    "Configuration d'Obsidian/Thèmes.md",
+    "Configuration d'Obsidian/Paramètres des modules principaux.md",
+    "Configuration d'Obsidian/Modules complémentaires.md",
+    "Toile d'accueil.canvas",
+    "FicheObsidian.md",
+    "Configuration d'Obsidian/Paramètres.md",
+    "DATA/Pasted image 20240207103602.png",
+    "DATA/Pasted image 20240207103507.png",
+    "DATA/Pasted image 20240207103339.png",
+    "DATA/Pasted image 20240207103304.png",
+    "DATA/Pasted image 20240207102925.png",
+    "DATA/screenshot.gif",
+    "DATA/Pasted image 20240207102752.png",
+    "DATA/Pasted image 20240207102729.png",
+    "DATA/Pasted image 20240207102716.png",
+    "DATA/Pasted image 20240207102436.png",
+    "Configuration d'Obsidian",
+    "DATA"
+  ]
+}

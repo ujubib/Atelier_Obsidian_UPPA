@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e240fe5e082449c8","type":"group","x":-800,"y":-300,"width":1400,"height":1080,"label":"Configuration d'Obsidian"},
+		{"id":"085fa14dd980a872","type":"file","file":"Configuration d'Obsidian/Paramètres.md","x":-680,"y":-260,"width":740,"height":400},
+		{"id":"1c498ca1c82d6d28","type":"file","file":"Configuration d'Obsidian/Thèmes.md","x":-760,"y":220,"width":400,"height":520},
+		{"id":"da42ca7d062928bf","type":"file","file":"Configuration d'Obsidian/Paramètres des modules principaux.md","x":-280,"y":220,"width":387,"height":520},
+		{"id":"3f33b41593706526","type":"file","file":"Configuration d'Obsidian/Modules complémentaires.md","x":160,"y":-165,"width":400,"height":905},
+		{"id":"c9406e5c6a71eb6d","type":"link","url":"https://uju-export.netlify.app/html/ficheobsidian","x":160,"y":-880,"width":756,"height":480},
+		{"id":"d6ae0339fc58866f","x":-440,"y":-1000,"width":400,"height":400,"type":"file","file":"FicheObsidian.md"}
+	],
+	"edges":[
+		{"id":"94f7e374f39a5fbd","fromNode":"085fa14dd980a872","fromSide":"bottom","toNode":"1c498ca1c82d6d28","toSide":"top"},
+		{"id":"128a30c5fa92503c","fromNode":"085fa14dd980a872","fromSide":"bottom","toNode":"da42ca7d062928bf","toSide":"top"},
+		{"id":"fd3c7356ee3ef36f","fromNode":"c9406e5c6a71eb6d","fromSide":"bottom","toNode":"e240fe5e082449c8","toSide":"top"},
+		{"id":"e6d64ecd77bfb2b7","fromNode":"d6ae0339fc58866f","fromSide":"right","toNode":"c9406e5c6a71eb6d","toSide":"left"}
+	]
+}
