@@ -16,7 +16,8 @@
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "tag-wrangler",
-  "textanalysis",
   "obsidian-text-format",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "collapse-node",
+  "mermaid-tools"
 ]

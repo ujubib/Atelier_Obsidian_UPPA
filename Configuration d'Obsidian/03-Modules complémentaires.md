@@ -17,6 +17,7 @@ tags: Logiciels/Obsidian/plugins
 - Image Toolkit
 - Importer
 - Link Embed
+- Mermaid Tools
 - Mindmap Nextgen
 - Paste image rename
 - Paste URL into selection
@@ -25,7 +26,6 @@ tags: Logiciels/Obsidian/plugins
 - Style Settings
 - Tasks
 - Tag Wrangler
-- Text Analysis
 - Text Format
 
 

@@ -3,5 +3,9 @@
   "attachmentFolderPath": "DATA",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
 }

@@ -20,15 +20,14 @@ Dossier à télécharger, décompresser et ouvrir comme un coffre (*vault*) dans
 
 ### Thèmes inclus 
 
-- Minimal
-- AnuPpuccin
-- Border
-- Catppuccin
-- Kakano
-- Shiba Inu
-- Solarized
-- Image Captions
-- Mermaid Tools
+> - Minimal
+> - AnuPpuccin
+> - Border
+> - Catppuccin
+> - Kakano
+> - Shiba Inu
+> - Solarized
+> 
 
 
 ### Modules complémentaires inclus
@@ -43,6 +42,7 @@ Dossier à télécharger, décompresser et ouvrir comme un coffre (*vault*) dans
 - Image Toolkit
 - Importer
 - Link Embed
+- Mermaid Tools
 - Mindmap Nextgen
 - Paste image rename
 - Paste URL into selection
@@ -51,7 +51,6 @@ Dossier à télécharger, décompresser et ouvrir comme un coffre (*vault*) dans
 - Style Settings
 - Tasks
 - Tag Wrangler
-- Text Analysis
 - Text Format
 
 

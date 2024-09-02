@@ -8,46 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b8ca911fbdd6b57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown/Basic formatting syntax.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "9b3c3b5faa7e067e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown/Advanced formatting syntax.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "73f6723c3fb9404f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Toile d'accueil.canvas",
                 "viewState": {
-                  "x": 422.69805742582946,
-                  "y": -1122.3945478070914,
-                  "zoom": -1.4343407891148687
+                  "x": -352.6687974197394,
+                  "y": -397.01697292831386,
+                  "zoom": -1.1010074557815355
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e4573820d34b81e",
@@ -157,28 +131,25 @@
                 "file": "Toile d'accueil.canvas"
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "8f991b6f37c522cf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ae9cb705d2b3086c",
+            "id": "9148f98c3f75cc7c",
             "type": "leaf",
             "state": {
-              "type": "textAnalysis-view",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,37 +161,40 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-projects:Open projects": false,
-      "textanalysis:Text Analysis": false
+      "textanalysis:Text Analysis": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "73f6723c3fb9404f",
+  "active": "9b3c3b5faa7e067e",
   "lastOpenFiles": [
-    "Markdown/Obsidian Flavored Markdown.md",
-    "Markdown/Advanced formatting syntax.md",
-    "Markdown/Basic formatting syntax.md",
-    "Toile d'accueil.canvas",
-    "basic",
-    "Markdown",
-    "Articles/Note Taking System For Success in Academia.md",
-    "Configuration d'Obsidian/02-Thèmes.md",
-    "Configuration d'Obsidian/03-Modules complémentaires.md",
-    "Configuration d'Obsidian/02-Paramètres des modules principaux.md",
-    "DATA/Templates/RéunionSCD.md",
-    "Projet_1/Imaginer.md",
+    "Configuration d'Obsidian/ExempleDiapos.md",
     "Configuration d'Obsidian/01-Paramètres.md",
-    "Configuration d'Obsidian/LiensObsidian.md",
+    "Configuration d'Obsidian/03-Modules complémentaires.md",
+    "Toile d'accueil.canvas",
+    "Markdown/Basic formatting syntax.md",
+    "Articles/Arthur Perret - Analyser Synthétiser Visualiser.md",
     "README.md",
     "FicheObsidian.md",
-    "Déroulé.md",
-    "Projet_1/Sans titre.md",
+    "Markdown/Advanced formatting syntax.md",
+    "Articles/ArthurPerret_EcritureAcademiqueAuFormatTexte_URFIST_bdx.md",
     "Articles/Dataview-beginners.md",
     "Articles/Downloadable Public Vaults For Obsidian.md",
-    "Articles/Arthur Perret - Analyser Synthétiser Visualiser.md",
-    "Articles/ArthurPerret_EcritureAcademiqueAuFormatTexte_URFIST_bdx.md",
+    "Articles/Note Taking System For Success in Academia.md",
     "Articles/RédactionGit.md",
+    "Markdown/Obsidian Flavored Markdown.md",
     "Projet_1/Transformer.md",
     "Projet_1/Inventer.md",
+    "Projet_1/Imaginer.md",
     "Projet_1/Documenter.md",
+    "Configuration d'Obsidian/LiensObsidian.md",
+    "basic",
+    "Markdown",
+    "Configuration d'Obsidian/02-Thèmes.md",
+    "Configuration d'Obsidian/02-Paramètres des modules principaux.md",
+    "DATA/Templates/RéunionSCD.md",
+    "Déroulé.md",
+    "Projet_1/Sans titre.md",
     "DATA/images/gh-checkbox-preview.webp",
     "DATA/images",
     "Articles",
