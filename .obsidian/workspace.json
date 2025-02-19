@@ -11,13 +11,63 @@
             "id": "9b3c3b5faa7e067e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ZoteroIntegration/bourdieuDelegationFetichismePolitique1984.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "bourdieuDelegationFetichismePolitique1984"
+            }
+          },
+          {
+            "id": "ff5331649da2de93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZoteroIntegration/bourdieuDelegationFetichismePolitique1984.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "bourdieuDelegationFetichismePolitique1984"
+            }
+          },
+          {
+            "id": "0e96612319f63a9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FicheObsidian.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "FicheObsidian"
+            }
+          },
+          {
+            "id": "9d846117b31af44f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Toile d'accueil.canvas",
+                "viewState": {
+                  "x": 820,
+                  "y": -1110,
+                  "zoom": -2.0037096833011026
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Toile d'accueil"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,12 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Toile d'accueil.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Toile d'accueil"
             }
           },
           {
@@ -157,16 +208,42 @@
               "icon": "lucide-archive",
               "title": "Toutes les propriétés"
             }
+          },
+          {
+            "id": "5e7c35cdab096d3c",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {},
+              "icon": "life-buoy",
+              "title": "HelpMate"
+            }
+          },
+          {
+            "id": "b0e42bd91eaadbd4",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 615.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "helpmate:HelpMate": false,
+      "smart-composer:Open smart composer": false,
+      "textanalysis:Text Analysis": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -176,14 +253,34 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-projects:Open projects": false,
       "audio-recorder:Démarrer / arrêter l'enregistrement": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9b3c3b5faa7e067e",
+  "active": "9d846117b31af44f",
   "lastOpenFiles": [
-    "README.md",
-    "FicheObsidian.md",
     "ZoteroIntegration/engelbartAugmentingHumanIntellect1962.md",
+    "ZoteroIntegration/bourdieuDelegationFetichismePolitique1984.md",
+    "FicheObsidian.md",
+    "Toile d'accueil.canvas",
+    "BetterNotes/engelbartAugmentingHumanIntellect1962.md",
+    "README.md",
+    "BetterNotes/vaillyMondeAuBout2020.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
     "ZoteroIntegration",
     "Projet_1/Transformer.md",
     "Projet_1/Inventer.md",
@@ -196,15 +293,6 @@
     "Markdown",
     "LiteratureNotes",
     "DATA/ZtTemplates/zt-note.eta.md",
-    "DATA/ZtTemplates/zt-colored.eta.md",
-    "DATA/ZtTemplates/zt-field.eta.md",
-    "DATA/ZtTemplates/zt-cite2.eta.md",
-    "DATA/ZtTemplates/zt-annots.eta.md",
-    "DATA/ZtTemplates/zt-cite.eta.md",
-    "DATA/ZtTemplates/zt-annot.eta.md",
-    "DATA/Templates/ZoteroIntegrationTemplate.md",
-    "DATA/Templates/RéunionSCD.md",
-    "DATA/Templates/Propriétés.md",
     "DATA/images/screenshot.gif",
     "DATA/images/Pasted image 20240207103602.png",
     "DATA/images/Pasted image 20240207103507.png",
@@ -217,16 +305,6 @@
     "DATA/images/Pasted image 20240207102436.png",
     "DATA/ZtTemplates",
     "DATA/ZtImgExcerpt",
-    "DATA/Templates",
-    "DATA/images",
-    "DATA/AtelierObsidian.json",
-    "DATA",
-    "Configuration d'Obsidian/LiensObsidian.md",
-    "Configuration d'Obsidian/03-Modules complémentaires.md",
-    "Configuration d'Obsidian/ExempleDiapos.md",
-    "Configuration d'Obsidian/02-Thèmes.md",
-    "Configuration d'Obsidian/01-Paramètres.md",
-    "BetterNotes/vaillyMondeAuBout2020.md",
-    "Toile d'accueil.canvas"
+    "DATA/Templates"
   ]
 }

@@ -22,7 +22,7 @@
   ],
   "exportFormats": [
     {
-      "name": "Import #1",
+      "name": "Import Fiche",
       "outputPathTemplate": "ZoteroIntegration/{{citekey}}.md",
       "imageOutputPathTemplate": "DATA/images/{{citekey}}/",
       "imageBaseNameTemplate": "image",

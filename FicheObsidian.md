@@ -69,5 +69,4 @@ J’avais proposé [cette mindmap](https://mindmap-obsidian.netlify.app/) à un 
 
 :::
 
-ligne1.
-ligne2.
+

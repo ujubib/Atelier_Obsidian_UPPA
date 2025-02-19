@@ -5,6 +5,6 @@
   "includeObsidianDevHelp": true,
   "obsidianDevHelpUrl": "https://docs.obsidian.md/Home",
   "includeHelpMateHelp": true,
-  "userResources": "",
+  "userResources": "Zotero Integration | https://github.com/mgmeyers/obsidian-zotero-integration/blob/main/docs/README.md\nProjects | https://github.com/marcusolsson/obsidian-projects",
   "forceIframe": false
 }
