@@ -23,11 +23,11 @@ publication: oui
 
 ### Date / horaire
 
-- Le *jeudi 8 février 2024* de 13h00 à 14h00
+- Le *mercredi 19 février 2025* de 13h00 à 14h00
 
 ### Lieux
 
-- BU de Pau, *salle 20*
+- BU de Pau, *salle 10*
 
 ## Présentation 
 

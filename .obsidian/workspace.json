@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b3c3b5faa7e067e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZoteroIntegration/bourdieuDelegationFetichismePolitique1984.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "bourdieuDelegationFetichismePolitique1984"
-            }
-          },
-          {
-            "id": "ff5331649da2de93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZoteroIntegration/bourdieuDelegationFetichismePolitique1984.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "bourdieuDelegationFetichismePolitique1984"
-            }
-          },
-          {
             "id": "0e96612319f63a9f",
             "type": "leaf",
             "state": {
@@ -67,7 +39,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,10 +232,10 @@
   },
   "active": "9d846117b31af44f",
   "lastOpenFiles": [
-    "ZoteroIntegration/engelbartAugmentingHumanIntellect1962.md",
-    "ZoteroIntegration/bourdieuDelegationFetichismePolitique1984.md",
     "FicheObsidian.md",
+    "ZoteroIntegration/bourdieuDelegationFetichismePolitique1984.md",
     "Toile d'accueil.canvas",
+    "ZoteroIntegration/engelbartAugmentingHumanIntellect1962.md",
     "BetterNotes/engelbartAugmentingHumanIntellect1962.md",
     "README.md",
     "BetterNotes/vaillyMondeAuBout2020.md",

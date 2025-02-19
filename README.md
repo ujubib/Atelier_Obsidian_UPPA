@@ -18,40 +18,7 @@ Dossier à télécharger, décompresser et ouvrir comme un coffre (*vault*) dans
 > - BU de Pau, _salle 10_
 
 
-### Thèmes inclus 
 
-> - Minimal
-> - AnuPpuccin
-> - Border
-> - Catppuccin
-> - Kakano
-> - Shiba Inu
-> - Solarized
-> 
-
-
-### Modules complémentaires inclus
-
-- Collapse Node
-- **Dataview**
-- External Link Opener
-- Extract url content
-- HTML Tags Autocomplete
-- Iconize
-- Image Captions
-- Image Toolkit
-- Importer
-- Link Embed
-- Mermaid Tools
-- Mindmap Nextgen
-- Paste image rename
-- Paste URL into selection
-- Projects
-- Regex Find/Replace
-- Style Settings
-- Tasks
-- Tag Wrangler
-- Text Format
 
 
 
