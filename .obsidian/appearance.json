@@ -2,5 +2,12 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "theme": "moonstone",
-  "baseFontSize": 26
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "Scrollable Slides"
+  ]
 }

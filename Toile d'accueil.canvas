@@ -2,16 +2,17 @@
 	"nodes":[
 		{"id":"310c9f8d32608c50","type":"group","x":1440,"y":-960,"width":1800,"height":1120,"label":"Web to markdown"},
 		{"id":"e240fe5e082449c8","type":"group","x":-440,"y":-440,"width":1730,"height":1100,"label":"Configuration d'Obsidian"},
+		{"id":"d2e0d694ce16432b","x":246,"y":-2070,"width":250,"height":140,"type":"text","text":""},
 		{"id":"c9406e5c6a71eb6d","type":"link","url":"https://uju-export.netlify.app/html/ficheobsidian","collapsed":false,"x":160,"y":-1380,"width":800,"height":780},
 		{"id":"d6ae0339fc58866f","type":"file","file":"FicheObsidian.md","collapsed":false,"x":-560,"y":-1380,"width":620,"height":780},
-		{"id":"3f33b41593706526","type":"file","file":"Configuration d'Obsidian/03-Modules complémentaires.md","x":720,"y":-360,"width":480,"height":980},
 		{"id":"085fa14dd980a872","type":"file","file":"Configuration d'Obsidian/01-Paramètres.md","x":-370,"y":-360,"width":990,"height":400},
-		{"id":"1c498ca1c82d6d28","type":"file","file":"Configuration d'Obsidian/02-Thèmes.md","x":-370,"y":100,"width":990,"height":520},
 		{"id":"2d1300c0ff973c31","type":"link","url":"https://help.obsidian.md/Home","x":-1600,"y":-1622,"width":936,"height":1982},
 		{"id":"c060daba5fe2bb2d","type":"link","url":"https://ilyashabanov.substack.com/p/note-taking-system-for-success-in","x":1480,"y":-860,"width":860,"height":980},
 		{"id":"6ba1dad19cbd6838","type":"link","url":"https://atelier-markdown-uppa.netlify.app/","collapsed":true,"x":-560,"y":-2380,"width":1120,"height":778},
 		{"id":"efad08116421dfaf","type":"file","file":"Articles/Note Taking System For Success in Academia.md","x":2500,"y":-860,"width":700,"height":980},
-		{"id":"9b695ed273c9e666","type":"link","url":"https://publish.obsidian.md/history-notes/01+Notetaking+for+Historians","collapsed":false,"x":1280,"y":-2180,"width":948,"height":1116}
+		{"id":"9b695ed273c9e666","type":"link","url":"https://publish.obsidian.md/history-notes/01+Notetaking+for+Historians","collapsed":false,"x":1280,"y":-2180,"width":948,"height":1116},
+		{"id":"3f33b41593706526","type":"file","file":"Configuration d'Obsidian/03-Modules complémentaires.md","x":720,"y":-360,"width":480,"height":980},
+		{"id":"1c498ca1c82d6d28","type":"file","file":"Configuration d'Obsidian/02-Thèmes.md","x":-370,"y":100,"width":990,"height":520}
 	],
 	"edges":[
 		{"id":"94f7e374f39a5fbd","fromNode":"085fa14dd980a872","fromSide":"bottom","toNode":"1c498ca1c82d6d28","toSide":"top"},

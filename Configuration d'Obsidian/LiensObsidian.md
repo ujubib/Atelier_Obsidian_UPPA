@@ -288,18 +288,13 @@ Séminaire de la *Chaire de recherche du Canada sur les écritures numériques*.
 * [Better Notes](https://github.com/windingwind/zotero-better-notes)
   * [Documentation officielle](https://github.com/windingwind/zotero-better-notes/wiki/0-Documentation-Introduction-About.en).
   * [Best add-ons in Zotero | easy to use | better notes | literature review mindmap | research](https://www.youtube.com/watch?v=DgiG-H4tjSI) - *Angie GinGer*, Youtube, 2023-03-18, \[10’40\].
-* [MDnotes for Zotero](https://argentinaos.com/zotero-mdnotes/)
 * [MarkDB-Connect](https://github.com/daeh/zotero-markdb-connect) (Zotero Markdown DataBase Connect)
 
 ### Biblio pour Obsidian
 
 #### Autour de Zotero
 
-* *obsidian-zotero*
-  * [Obsidian Plugin Setup](https://obzt.aidenlx.top/getting-started/install/obsidian) (installer avec [BRAT plugin](https://github.com/TfTHacker/obsidian42-brat/))
-  * [Zotero Plugin Setup](https://obzt.aidenlx.top/getting-started/install/zotero)
 * [Citations](https://github.com/hans/obsidian-citation-plugin)
-* [BibNotes Formatter](https://github.com/stefanopagliari/bibnotes) (installer avec [BRAT plugin](https://github.com/TfTHacker/obsidian42-brat/))
 * [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration)
   * anciennement *Zotero Desktop Connector*
 

@@ -11,11 +11,11 @@ Dossier à télécharger, décompresser et ouvrir comme un coffre (*vault*) dans
 > 
 > ### Date / horaire
 > 
-> - Le _jeudi 8 février 2024_ de 13h00 à 14h00
+> - Le _mercredi 19 février 2025_ de 13h00 à 14h00
 > 
 > ### Lieux
 > 
-> - BU de Pau, _salle 20_
+> - BU de Pau, _salle 10_
 
 
 ### Thèmes inclus 

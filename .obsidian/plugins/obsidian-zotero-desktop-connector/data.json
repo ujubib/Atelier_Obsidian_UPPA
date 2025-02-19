@@ -1,0 +1,37 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "ZoteroIntegration",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite-Pandoc-ZI",
+      "format": "pandoc",
+      "brackets": true
+    },
+    {
+      "name": "Cite_ZI",
+      "format": "formatted-citation"
+    },
+    {
+      "name": "Biblio_ZI",
+      "format": "formatted-bibliography",
+      "cslStyle": "iso690-author-date-fr"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "ZoteroIntegration/{{citekey}}.md",
+      "imageOutputPathTemplate": "DATA/images/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "DATA/Templates/ZoteroIntegrationTemplate.md",
+      "cslStyle": "iso690-author-date-fr"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}

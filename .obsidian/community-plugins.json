@@ -1,7 +1,6 @@
 [
   "obsidian-link-embed",
   "dataview",
-  "obsidian-link-opener",
   "extract-url",
   "obsidian-html-tags-autocomplete",
   "obsidian-icon-folder",
@@ -19,5 +18,14 @@
   "obsidian-text-format",
   "convert-url-to-iframe",
   "collapse-node",
-  "mermaid-tools"
+  "mermaid-tools",
+  "helpmate",
+  "obsidian-enhancing-export",
+  "obsidian-pandoc-reference-list",
+  "smart-composer",
+  "obsidian-smart-typography",
+  "smart-connections",
+  "textanalysis",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-textgenerator-plugin"
 ]

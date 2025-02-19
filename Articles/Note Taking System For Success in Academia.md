@@ -55,7 +55,7 @@ At its core Obsidian is not very complicated. And can be explained in one image 
 
 **MetaData** | Some machine readable data in a specific format. It helps with structure but is often irrelevant for the subject matter. For example "Year: 2019" or "DOI: 10.1038/s41598-022-16381-2" are two pieces of meta data for a scientific paper. We can use this to create tables or lists automatically. (There are different ways of adding meta data)
 
-![](../../../../DATA/images/ea7a93d2-790d-4ca0-821f-d4cf82d6a7ed_2428x1406.webp)
+![](../DATA/images/ea7a93d2-790d-4ca0-821f-d4cf82d6a7ed_2428x1406.webp)
 
 Feeling overwhelmed? Think of it this way:
 

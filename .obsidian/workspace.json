@@ -11,15 +11,10 @@
             "id": "9b3c3b5faa7e067e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Toile d'accueil.canvas",
-                "viewState": {
-                  "x": -352.6687974197394,
-                  "y": -397.01697292831386,
-                  "zoom": -1.1010074557815355
-                }
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -41,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -57,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -65,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -88,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toile d'accueil.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
             }
           },
           {
@@ -105,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toile d'accueil.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
             }
           },
           {
@@ -118,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -128,8 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toile d'accueil.canvas"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
             }
           },
           {
@@ -141,7 +153,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
             }
           }
         ],
@@ -161,56 +175,58 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-projects:Open projects": false,
-      "textanalysis:Text Analysis": false,
       "audio-recorder:Démarrer / arrêter l'enregistrement": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "9b3c3b5faa7e067e",
   "lastOpenFiles": [
-    "Configuration d'Obsidian/ExempleDiapos.md",
-    "Configuration d'Obsidian/01-Paramètres.md",
-    "Configuration d'Obsidian/03-Modules complémentaires.md",
-    "Toile d'accueil.canvas",
-    "Markdown/Basic formatting syntax.md",
-    "Articles/Arthur Perret - Analyser Synthétiser Visualiser.md",
     "README.md",
     "FicheObsidian.md",
-    "Markdown/Advanced formatting syntax.md",
-    "Articles/ArthurPerret_EcritureAcademiqueAuFormatTexte_URFIST_bdx.md",
-    "Articles/Dataview-beginners.md",
-    "Articles/Downloadable Public Vaults For Obsidian.md",
-    "Articles/Note Taking System For Success in Academia.md",
-    "Articles/RédactionGit.md",
-    "Markdown/Obsidian Flavored Markdown.md",
+    "ZoteroIntegration/engelbartAugmentingHumanIntellect1962.md",
+    "ZoteroIntegration",
     "Projet_1/Transformer.md",
     "Projet_1/Inventer.md",
     "Projet_1/Imaginer.md",
     "Projet_1/Documenter.md",
-    "Configuration d'Obsidian/LiensObsidian.md",
-    "basic",
-    "Markdown",
-    "Configuration d'Obsidian/02-Thèmes.md",
-    "Configuration d'Obsidian/02-Paramètres des modules principaux.md",
-    "DATA/Templates/RéunionSCD.md",
-    "Déroulé.md",
-    "Projet_1/Sans titre.md",
-    "DATA/images/gh-checkbox-preview.webp",
-    "DATA/images",
-    "Articles",
-    "DATA/Templates/Propriétés.md",
-    "DATA/Templates",
     "Projet_1",
+    "Markdown/Obsidian Flavored Markdown.md",
+    "Markdown/Basic formatting syntax.md",
+    "Markdown/Advanced formatting syntax.md",
+    "Markdown",
+    "LiteratureNotes",
+    "DATA/ZtTemplates/zt-note.eta.md",
+    "DATA/ZtTemplates/zt-colored.eta.md",
+    "DATA/ZtTemplates/zt-field.eta.md",
+    "DATA/ZtTemplates/zt-cite2.eta.md",
+    "DATA/ZtTemplates/zt-annots.eta.md",
+    "DATA/ZtTemplates/zt-cite.eta.md",
+    "DATA/ZtTemplates/zt-annot.eta.md",
+    "DATA/Templates/ZoteroIntegrationTemplate.md",
+    "DATA/Templates/RéunionSCD.md",
+    "DATA/Templates/Propriétés.md",
+    "DATA/images/screenshot.gif",
     "DATA/images/Pasted image 20240207103602.png",
     "DATA/images/Pasted image 20240207103507.png",
     "DATA/images/Pasted image 20240207103339.png",
     "DATA/images/Pasted image 20240207103304.png",
     "DATA/images/Pasted image 20240207102925.png",
-    "DATA/images/screenshot.gif",
     "DATA/images/Pasted image 20240207102752.png",
     "DATA/images/Pasted image 20240207102729.png",
     "DATA/images/Pasted image 20240207102716.png",
-    "Configuration d'Obsidian",
-    "DATA"
+    "DATA/images/Pasted image 20240207102436.png",
+    "DATA/ZtTemplates",
+    "DATA/ZtImgExcerpt",
+    "DATA/Templates",
+    "DATA/images",
+    "DATA/AtelierObsidian.json",
+    "DATA",
+    "Configuration d'Obsidian/LiensObsidian.md",
+    "Configuration d'Obsidian/03-Modules complémentaires.md",
+    "Configuration d'Obsidian/ExempleDiapos.md",
+    "Configuration d'Obsidian/02-Thèmes.md",
+    "Configuration d'Obsidian/01-Paramètres.md",
+    "BetterNotes/vaillyMondeAuBout2020.md",
+    "Toile d'accueil.canvas"
   ]
 }

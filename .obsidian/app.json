@@ -7,5 +7,8 @@
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "showUnsupportedFiles": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "livePreview": false,
+  "useMarkdownLinks": false,
+  "uriCallbacks": true
 }

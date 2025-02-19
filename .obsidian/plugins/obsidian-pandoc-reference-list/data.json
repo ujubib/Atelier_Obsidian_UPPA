@@ -1,0 +1,20 @@
+{
+  "pathToPandoc": "C:\\Users\\jrabaud001\\AppData\\Local\\Pandoc\\pandoc.EXE",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "Ma bibliothèque",
+      "lastUpdate": 1739959018651
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "C:\\Users\\jrabaud001\\Documents\\Atelier_Obsidian_UPPA-main\\DATA\\AtelierObsidian.json",
+  "pullFromZotero": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/iso690-author-date-fr.csl",
+  "cslLang": "fr-FR",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true
+}

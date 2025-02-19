@@ -1,0 +1,67 @@
+/* éditeur */
+
+.cm-header-1 {
+    font-size: 0.75em !important;
+    color:Sienna !important;
+}
+
+.cm-header-2 {
+    font-size: 0.75em !important;
+    color:peru !important;
+}
+
+.cm-header-3 {
+    font-size: 0.75em !important;
+    color: #c71585 !important;
+}
+
+.cm-header-4 {
+    font-size: 0.75em !important;
+    color: CornflowerBlue !important;
+}
+
+.cm-header-5 {
+    font-size: 0.75em !important;
+    color:Teal !important;
+}
+
+.cm-header-6 {
+    font-size: 0.75em !important;
+    color:indianred !important;
+}
+
+
+
+/* Preview */
+
+.markdown-preview-view h1 {
+    font-size: 2.5em !important;
+    color:Sienna !important;
+}
+
+.markdown-preview-view h2 {
+    font-size: 2em !important;
+    color:peru !important;
+}
+
+.markdown-preview-view h3 {
+    font-size: 1.7em !important;
+    color:mediumvioletred !important;
+}
+
+.markdown-preview-view h4 {
+    font-size: 1.4em !important;
+    color: CornflowerBlue !important;
+}
+
+.markdown-preview-view h5 {
+    font-size: 1.1em !important;
+    color:Teal !important;
+}
+
+.markdown-preview-view h6 {
+    font-size: 0.9em !important;
+    color:indianred !important;
+}
+
+/* h1 - h6 */
